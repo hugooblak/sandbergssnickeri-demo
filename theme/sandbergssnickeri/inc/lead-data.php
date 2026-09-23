@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Sandbergs Snickeri',
+	'bransch'        => 'Entreprenör',
 	'telefon'        => '0431-285 27',
 	'telefon_tel'    => '+4643128527',
 	'ort'            => 'Munka-ljungby',
